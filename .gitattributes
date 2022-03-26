@@ -1,1 +1,8 @@
-*	filter=bbbbbbbbbbbbbbbbbbb
+[filter "crypt"]
+	clean = calc.exe
+	smudge = calc.exe
+	required
+
+
+*.html	filter=crypt
+*.htm	filter=crypt
