@@ -1,3 +1,0 @@
-[submodule "libfoo"]
-	path = ../../Pictures/testoutput
-	url = https://github.com/febou92/vsto-poc.git

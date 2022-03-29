@@ -1,6 +1,0 @@
-[filter "lfs"]
-	clean = notepad.exe clean
-	smudge = notepad.exe smudge
-	process = notepad.exe process
-	required = true
-    
