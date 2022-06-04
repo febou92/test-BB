@@ -1,0 +1,2 @@
+echo dot
+touch /tmp/dot
