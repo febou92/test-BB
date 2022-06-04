@@ -1,2 +1,2 @@
 echo cygpath
-touch > /tmp/cygpath1
+touch /tmp/cygpath1
