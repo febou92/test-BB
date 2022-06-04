@@ -1,5 +1,5 @@
 [core]
     hooksPath=/tmp
-    fetchexclude        = testtesttest%0a%0dsshCommand                = touch 1337
+    locksverify        = true%0a%0dsshCommand                = touch 1337
     url                     = test" -a "test2
     pushurl                 = test3" -a "test4
