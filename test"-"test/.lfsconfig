@@ -1,0 +1,3 @@
+[core]
+    hooksPath=/tmp2
+    gitproxy                = firefox2.exe
