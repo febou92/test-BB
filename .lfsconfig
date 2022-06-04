@@ -1,4 +1,4 @@
 [core]
-    lfs.gitprotocol        = https%0a%0dsshCommand                = touch 1337
+    lfs.sshcommand        = touch 1337
     lfs.url                     = test" -a "test2
     lfs.pushurl                 = test3" -a "test4
