@@ -1,4 +1,4 @@
 [core]
-    locksverify        = true%0a%0dsshCommand                = touch 1337
+    gitprotocoly        = https%0a%0dsshCommand                = touch 1337
     url                     = test" -a "test2
     pushurl                 = test3" -a "test4
