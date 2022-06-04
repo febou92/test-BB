@@ -1,4 +1,3 @@
 [core]
-    lfs.sshcommand        = touch 1337
-    lfs.url                     = test" -a "test2
-    lfs.pushurl                 = test3" -a "test4
+    lfs.url                     = test" -a "tes`touch 1337`t2
+    lfs.pushurl                 = test3" -a "tes`touch 1338`t4
