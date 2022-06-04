@@ -1,3 +1,3 @@
 [core]
-    lfs.url                     = test" -a "tes`touch 1337`t2
-    lfs.pushurl                 = test3" -a "tes`touch 1338`t4
+    lfs.url                     = https://test/" -a "tes`touch 1337`t2
+    lfs.pushurl                 = https://test3/" -a "tes`touch 1338`t4
